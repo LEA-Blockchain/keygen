@@ -119,4 +119,5 @@ lea1q...
 -   **Name**: `lea-keygen`
 -   **Version**: `1.0.0`
 -   **Description**: A CLI tool for generating and managing Lea Chain keysets.
+-   **Category**: Cryptographic
 -   **Repository**: `https://github.com/LEA-Blockchain/keygen.git`
