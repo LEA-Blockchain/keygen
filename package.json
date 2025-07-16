@@ -1,10 +1,13 @@
 {
   "name": "@leachain/keygen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool for generating Lea Chain keysets.",
   "bin": {
     "lea-keygen": "./dist/cli.js"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "clean": "del-cli ./dist",
     "prepare": "lea-rl \"https://github.com/LEA-Blockchain/ed25519/releases/download/v0.1.0/ed25519.wasm-v0.1.0.tar.gz\" ./src/ && lea-rl \"https://github.com/LEA-Blockchain/sphincs256s/releases/download/v0.1.0/sphincs256s.wasm-v0.1.0.tar.gz\" ./src/",
