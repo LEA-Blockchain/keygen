@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/@leachain/keygen)](https://www.npmjs.com/package/@leachain/keygen)
+[![GitHub license](https://img.shields.io/github/license/LEA-Blockchain/keygen)](https://github.com/LEA-Blockchain/keygen/blob/main/LICENSE)
+
 # `lea-keygen` Command-Line Usage
 
 This guide provides detailed instructions for using the `lea-keygen` command-line tool to generate Lea Chain keysets.
@@ -19,11 +22,11 @@ lea-keygen <command>
 
 ---
 
-## Commands
+## Command Reference
 
 The `lea-keygen` tool supports two main commands: `new` and `verify`.
 
-### `new` Command
+### `new`
 
 Generates a new keyset.
 
@@ -85,7 +88,7 @@ Keyset generated to stdout.
 
 ---
 
-### `verify` Command
+### `verify`
 
 Displays the public address for a given keyset file.
 
@@ -114,10 +117,15 @@ lea1q...
 ```
 
 ---
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
 ## Metadata
 
 -   **Name**: `lea-keygen`
--   **Version**: `1.0.0`
+-   **Version**: `1.0.1`
 -   **Description**: A CLI tool for generating and managing Lea Chain keysets.
 -   **Category**: Cryptographic
 -   **Repository**: `https://github.com/LEA-Blockchain/keygen.git`
