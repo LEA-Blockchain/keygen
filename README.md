@@ -1,6 +1,6 @@
 <!--
 giturl: https://github.com/LEA-Blockchain/keygen
-name: @leachain/keygen
+name: lea-keygen
 version: 1.0.1
 description: A CLI tool for generating Lea Chain keysets.
 -->
