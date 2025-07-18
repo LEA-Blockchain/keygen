@@ -1,3 +1,10 @@
+<!--
+giturl: https://github.com/LEA-Blockchain/keygen
+name: @leachain/keygen
+version: 1.0.1
+description: A CLI tool for generating Lea Chain keysets.
+-->
+
 [![npm version](https://img.shields.io/npm/v/@leachain/keygen)](https://www.npmjs.com/package/@leachain/keygen)
 [![GitHub license](https://img.shields.io/github/license/LEA-Blockchain/keygen)](https://github.com/LEA-Blockchain/keygen/blob/main/LICENSE)
 
@@ -120,12 +127,3 @@ lea1q...
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-## Metadata
-
--   **Name**: `lea-keygen`
--   **Version**: `1.0.1`
--   **Description**: A CLI tool for generating and managing Lea Chain keysets.
--   **Category**: Cryptographic
--   **Repository**: `https://github.com/LEA-Blockchain/keygen.git`
